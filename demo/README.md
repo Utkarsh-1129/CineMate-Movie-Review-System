@@ -196,13 +196,4 @@ Consider adding more unit and integration tests (controller/service tests with i
 
 ## License & author
 
-Add a proper LICENSE file and author/maintainer information as needed.
-
----
-
-If you want, I can: ✅
-- Add `.env.sample` to the backend (no secrets)
-- Add a short `CONTRIBUTING.md` and a `SECURITY.md` with required practices
-- Open PR to replace `GET` endpoints with POSTs/deletes for reviews
-
-Would you like me to create `.env.sample` and commit `README.md` now? 🔧
+All rights are reserved to Utkarsh-1129.
