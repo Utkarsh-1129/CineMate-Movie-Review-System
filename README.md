@@ -187,12 +187,6 @@ Consider adding more unit and integration tests (controller/service tests with i
 
 ---
 
-## Files added / created
-
-- `README.md` (this file)
-- `Backend/src/main/resources/.env.sample` (template for environment variables)
-
----
 
 ## License & author
 
