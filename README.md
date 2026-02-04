@@ -1,4 +1,4 @@
-# Movie Review System 🎬
+#CINEMATE: Movie Review System 🎬
 
 **Overview**
 
