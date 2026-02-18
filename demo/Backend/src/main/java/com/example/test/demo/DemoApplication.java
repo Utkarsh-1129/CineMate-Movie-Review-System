@@ -18,7 +18,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public ResponseEntity<Map<String, String>> root() {
-		return ResponseEntity.ok(Map.of("Message", "Abhiraj is Great"));
+		return ResponseEntity.ok(Map.of("Message", "Utkarsh Trivedi"));
 	}
 
 }
