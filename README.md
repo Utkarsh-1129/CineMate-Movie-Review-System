@@ -1,5 +1,10 @@
 # CINEMATE: Movie Review System 🎬
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+
 **Overview**
 
 A simple full-stack Movie Review application built with:
